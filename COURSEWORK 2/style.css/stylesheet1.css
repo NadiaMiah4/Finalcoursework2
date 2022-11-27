@@ -1,0 +1,17 @@
+.leftside{
+
+  background-image: url(../images/pinkbg.png);
+  height: 1000px;
+  width: 50%;
+  background-position: left;
+  background-size: auto;
+}
+
+.rightside{
+
+  background-image: url(../images/RESTAURANT.jpeg);
+  height: 1000px;
+  width: 50%;
+  background-position: right;
+  background-size: auto;
+}
